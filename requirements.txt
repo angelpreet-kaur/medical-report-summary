@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+python-dotenv
+azure-ai-textanalytics
+azure-core
