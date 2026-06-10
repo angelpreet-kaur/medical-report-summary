@@ -1,0 +1,21 @@
+Patient_ID,Diagnosis,Actual,Predicted
+P001,Upper Respiratory Infection,1,1
+P002,Type 2 Diabetes,1,1
+P003,Migraine,1,0
+P004,Hypertension,1,1
+P005,Rheumatoid Arthritis,1,0
+P006,Tonsillitis,0,0
+P007,Alzheimer's Disease,1,1
+P008,Gastritis,0,1
+P009,Type 2 Diabetes,1,1
+P010,Allergic Dermatitis,0,0
+P011,COPD,1,1
+P012,Hypothyroidism,1,1
+P013,Lumbar Strain,0,0
+P014,Coronary Artery Disease,1,1
+P015,Viral Fever,0,0
+P016,Anxiety Disorder,1,1
+P017,Osteoarthritis,1,0
+P018,Food Poisoning,0,0
+P019,Hypertension,1,1
+P020,Bronchitis,1,1

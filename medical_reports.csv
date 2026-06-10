@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Symptoms,Diagnosis,Medication
+P001,45,Male,Fever and cough,Upper Respiratory Infection,Azithromycin
+P002,62,Female,High blood sugar and fatigue,Type 2 Diabetes,Metformin
+P003,30,Male,Headache and dizziness,Migraine,Sumatriptan
+P004,55,Female,Chest pain and shortness of breath,Hypertension,Amlodipine
+P005,41,Male,Joint pain,Rheumatoid Arthritis,Ibuprofen
+P006,29,Female,Fever and sore throat,Tonsillitis,Amoxicillin
+P007,70,Male,Memory loss,Alzheimer's Disease,Donepezil
+P008,38,Female,Abdominal pain,Gastritis,Omeprazole
+P009,50,Male,Frequent urination,Type 2 Diabetes,Metformin
+P010,24,Female,Skin rash,Allergic Dermatitis,Cetirizine
+P011,66,Male,Shortness of breath,Chronic Obstructive Pulmonary Disease,Salbutamol
+P012,35,Female,Fatigue and weight gain,Hypothyroidism,Levothyroxine
+P013,47,Male,Back pain,Lumbar Strain,Naproxen
+P014,58,Female,Chest discomfort,Coronary Artery Disease,Aspirin
+P015,19,Male,Fever and body ache,Viral Fever,Paracetamol
+P016,43,Female,Anxiety and insomnia,Generalized Anxiety Disorder,Escitalopram
+P017,72,Male,Swollen joints,Osteoarthritis,Diclofenac
+P018,31,Female,Nausea and vomiting,Food Poisoning,Ondansetron
+P019,60,Male,High blood pressure,Hypertension,Losartan
+P020,27,Female,Persistent cough,Bronchitis,Azithromycin
